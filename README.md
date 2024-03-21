@@ -1,5 +1,8 @@
 # EX No.3.2. CREATE 3D MODEL FROM ORTHOGRAPHIC PROJECTION
-## DATE:
+## DATE:21:03:2024
+## NAME:YUVARAJ JOSHITHA
+## REGISTER NUMBER:212223240189
+## DEPARTMENT:AIML
 ## AIM:
 To create a 3D model from given orthographic projection.
 
@@ -42,6 +45,7 @@ To create a 3D model from given orthographic projection.
 ![image](https://user-images.githubusercontent.com/113594316/198823540-38a1b79a-1f68-4876-add9-adf59b98b386.png)
 
 ## OUTPUT:
+![Screenshot 2024-03-15 112758](https://github.com/Joshitha-YUVARAJ/EX.-No.3.2.-CREATE-3D-MODEL-FROM-ORTHOGRAPHIC-PROJECTION/assets/145742770/aeb70074-c3eb-464e-9966-b3f5978670b6)
 
 ## RESULT:
 Thus, 3D model is created from orthographic projection.
